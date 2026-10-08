@@ -1,0 +1,67 @@
+.footder{
+     display: flex;
+    background-color: black;
+    color: white;
+    height: 65px;
+   justify-content: space-between;
+   width: 1440px;
+}
+   
+   
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    padding-right: 100px;
+    margin-top: 8px;
+}
+
+.img{
+    width: 40px;
+    height: 40px;
+    padding-left: 100px;
+    margin-top: 9px;
+}
+.pad{
+    text-align: center;
+    font-size: 100px;
+}
+
+.box1{
+    width: 390px;
+    height: 396px;
+    ;
+}
+
+.img2{
+    width: 390px;
+    height: 200px;
+    border-radius: 20px;
+}
+
+b{
+    font-size: 35px;
+    padding-left: 60px;
+}
+
+p{
+    font-size: 15px;
+}
+
+.ota{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+.ota2{
+     display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+.bob{
+    padding-left: 100px;
+}
+
+
